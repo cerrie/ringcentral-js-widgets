@@ -135,4 +135,3 @@ export default {
 // @key: @#@"US"@#@ @source: @#@"United States"@#@
 // @key: @#@"VN"@#@ @source: @#@"Vietnam"@#@
 // @key: @#@"ZA"@#@ @source: @#@"South Africa"@#@
->>>>>>> cd46ce5a... i18n : Update locale (#1076)
